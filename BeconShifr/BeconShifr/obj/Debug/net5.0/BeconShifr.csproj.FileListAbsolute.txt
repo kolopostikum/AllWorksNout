@@ -1,0 +1,16 @@
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\bin\Debug\net5.0\BeconShifr.exe
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\bin\Debug\net5.0\BeconShifr.deps.json
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\bin\Debug\net5.0\BeconShifr.runtimeconfig.json
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\bin\Debug\net5.0\BeconShifr.runtimeconfig.dev.json
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\bin\Debug\net5.0\BeconShifr.dll
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\bin\Debug\net5.0\ref\BeconShifr.dll
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\bin\Debug\net5.0\BeconShifr.pdb
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\obj\Debug\net5.0\BeconShifr.csproj.AssemblyReference.cache
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\obj\Debug\net5.0\BeconShifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\obj\Debug\net5.0\BeconShifr.AssemblyInfoInputs.cache
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\obj\Debug\net5.0\BeconShifr.AssemblyInfo.cs
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\obj\Debug\net5.0\BeconShifr.csproj.CoreCompileInputs.cache
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\obj\Debug\net5.0\BeconShifr.dll
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\obj\Debug\net5.0\ref\BeconShifr.dll
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\obj\Debug\net5.0\BeconShifr.pdb
+C:\Users\nout\source\repos\BeconShifr\BeconShifr\obj\Debug\net5.0\BeconShifr.genruntimeconfig.cache
